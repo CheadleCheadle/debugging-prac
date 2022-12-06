@@ -5,7 +5,7 @@ rating.
 */
 
 function cutestCat(cats) {
-  let cutest;
+  let cutest = cats[0];
   let i = 0;
 
   while (i < cats.length) {
